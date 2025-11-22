@@ -1,0 +1,5 @@
+venv/
+__pycash__/
+*.log
+*.tmp
+.DS_Store
